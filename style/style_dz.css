@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(110, 64, 172);
+}
+p{
+    font-size: 20px;
+    padding-left: 25px;
+}
+.imgg{
+    height: 150px;
+    width: 140px;
+}
+.for-img{
+    height: 150px;
+    width: 140px;
+    border: 4px solid black;
+}
+.img-logo img{
+    height: 50px;
+    width: 50px;
+}
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1400px;
+}
+.python-img{
+    height: 200px;
+    width: 200px;
+}
+.python{
+    display: flex;
+    max-width: 1000px;
+}
+.Arduino-img{
+    height: 200px;
+    width: 200px;
+}
+.Arduino{
+    display: flex;
+    max-width: 1000px;
+}
+.Photoshop-img{
+    height: 200px;
+    width: 200px;
+}
+.Photoshop{
+    display: flex;
+    max-width: 1000px;
+}
+.Adobe-Illustrator-img{
+    height: 200px;
+    width: 200px;
+}
+.Adobe-Illustrator{
+    display: flex;
+    max-width: 1000px;
+}
+.Blender-img{
+    height: 200px;
+    width: 200px;
+}
+.Blender{
+    display: flex;
+    max-width: 1000px;
+}
